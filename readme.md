@@ -5,6 +5,8 @@
 3. Jarraitu verge 3D-ko gida hau eta eskolako logoaren escena erabiliz kuboarena erabili beharrean. [verge 3D](https://www.soft8soft.com/docs/manual/en/programmers_guide/Using-NodeJS-NPM.html)
 4. Ezarri webpack node referentziak errazago erabiltzeko.
 
+![alt text](image.png)
+
 # Ariketa
 
 Aukeratu bat edo gehiago.
