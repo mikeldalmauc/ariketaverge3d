@@ -14,3 +14,5 @@ Aukeratu bat edo gehiago.
 1. Sortu escena berri bat blenderren eta exportatu logoarena bezala.
 2. Sortu webgune sinple baten egitura 3D escenaren gainean, tolosaldealogoak fondo bezala gelditu behar da eta rotazio mugimendu konstante batekin.
 3. Jarraitu vergeko gida vue edo react aplikazio baten integratuz libreria [verge 3d react/vue](https://www.soft8soft.com/docs/manual/en/programmers_guide/Integration-with-Reactjs-Vuejs.html)
+
+Entregatu dena zuen repositoriora igoz!
